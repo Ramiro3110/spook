@@ -28,14 +28,14 @@
 /* Only showing new stuff... */
 #spookster {
   position: relative;
-  border: 0.5vmin solid black;
+  border: 0.5vmin solid rgb(255, 255, 255);
   width: 30vmin;
   height: 30vmin;
   border-top-left-radius: 50%;
   border-top-right-radius: 50%;
   border-bottom: 0;
   box-sizing: border-box;
-  background: #ffdcff;
+  background: #000000;
 }
 
 /* Only showing new stuff... */
@@ -47,11 +47,11 @@
 #feet {
   width: 7.5vmin;
   height: 6vmin;
-  border: 0.5vmin solid black;
+  border: 0.5vmin solid rgb(255, 255, 255);
   border-bottom-left-radius: 50%;
   border-bottom-right-radius: 50%;
   border-top: 0;
-  background: #ffdcff;
+  background: #ffffff;
 }
 
 /* Only showing new stuff... */
@@ -59,7 +59,7 @@
   position: absolute;
   width: 5vmin;
   height: 5vmin;
-  background: #000;
+  background: #ffffff;
   border-radius: 50%;
   top: 13vmin;
   left: 5vmin;
@@ -73,7 +73,7 @@
 #peepers:before{
   content: "";
   position: absolute;
-  background: white;
+  background: rgb(255, 0, 0);
   width: 2.5vmin;
   height: 2.5vmin;
   border-radius: 50%;
@@ -85,7 +85,7 @@
   position: absolute;
   width: 4vmin;
   height: 2vmin;
-  border: 0.7vmin solid black;
+  border: 0.7vmin solid rgb(255, 255, 255);
   border-bottom-left-radius: 4vmin;
   border-bottom-right-radius: 4vmin;
   border-top: 0;
@@ -99,7 +99,7 @@
   position: absolute;
   width: 4vmin;
   height: 4vmin;
-  border: 0.5vmin solid black;
+  border: 0.5vmin solid rgb(255, 255, 255);
   border-bottom-left-radius: 50%;
   border-bottom-right-radius: 50%;
   border-top: 0;
