@@ -53,3 +53,15 @@
   border-top: 0;
   background: #ffdcff;
 }
+
+/* Only showing new stuff... */
+#peepers {
+  position: absolute;
+  width: 5vmin;
+  height: 5vmin;
+  background: #000;
+  border-radius: 50%;
+  top: 13vmin;
+  left: 5vmin;
+  box-shadow: 14vmin 0;
+}
